@@ -1,4 +1,4 @@
-# Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# 🚀 Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of Artificial Intelligence Top Tools
 
@@ -8,7 +8,7 @@ Join my growing AI list of products and see the bleeding edge!
 
 ## Contents
 
-- [✨ AI Audio](#audio)
+- [🚀 AI Audio](#audio)
 - [✨ AI Text](#text)
 - [🌟 Code with AI](#code)
 - [🎇 Generative AI Images ](#image)
