@@ -193,5 +193,6 @@ Join my growing AI list of products and see the bleeding edge!
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin with SEO and Google Ads skills.
 
 Check out my repos on github: [@pink-mash-potato](https://github.com/pink-mash-potato)
