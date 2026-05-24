@@ -194,4 +194,8 @@ Join my growing AI list of products and see the bleeding edge!
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
 
+## Image
+
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator that turns yard and garden photos into realistic outdoor design concepts.
+
 Check out my repos on github: [@pink-mash-potato](https://github.com/pink-mash-potato)
