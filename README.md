@@ -191,6 +191,7 @@ Join my growing AI list of products and see the bleeding edge!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code plugin (~2.9k stars, MIT) providing agent skills for SEO, Google Ads, and Meta Ads; connects live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. #opensource
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
 
