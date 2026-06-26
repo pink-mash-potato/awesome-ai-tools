@@ -22,6 +22,7 @@ Join my growing AI list of products and see the bleeding edge!
 ### Text to Speech Readers
 
 - [Natureal Readers](https://www.naturalreaders.com/) - A text-to-speech app for productivity with natural-sounding voices
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [Audeus Text to Speech Reader](https://www.audeus.com/) - A text-to-speech app for productivity with natural-sounding ai voices and customization options 
 - [Voice Dream Reader](https://www.voicedrea.com/) - A mobile app for iOS that converts text to speech
 - [Speechify Reader](https://speechify.com/) - A text-to-speech tool with a browser extension, mobile app
