@@ -100,6 +100,10 @@ Join my growing AI list of products and see the bleeding edge!
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
 - [quivr](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
+## Image
+
+- [HairWow](https://www.gohairwow.com) - AI hairstyle try-on for previewing haircuts, hair colors, bangs, curls, and salon or barber style changes on your own photo.
+
 ### Writing assistants
 
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
