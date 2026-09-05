@@ -76,6 +76,7 @@ Join my growing AI list of products and see the bleeding edge!
 
 - [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
+- [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 - [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
