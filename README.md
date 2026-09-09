@@ -48,6 +48,7 @@ Join my growing AI list of products and see the bleeding edge!
 - [Emilio](https://getemil.io) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - Forget about frustrating formulas in Google Sheets.
 - [Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder/) - Craft the perfect resume, with a little help from AI. Huntr's customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
+- [ResumeAI](https://withresumeai.com/) - AI resume builder with a free ATS checker (3/day no account, 10/day free account) and State of ATS 2026 dataset.
 - [Lemmy](https://lemmy.co/) - Autonomous AI Assistant for Work.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
