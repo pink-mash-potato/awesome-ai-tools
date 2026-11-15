@@ -81,6 +81,7 @@ Join my growing AI list of products and see the bleeding edge!
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Claude 3](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
 - [Gemini](https://gemini.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
+- [Sammi: AI Girlfriend](https://sammiai.app/) - Android AI companion for fictional character text chat, voice interaction, customization and creative roleplay.
 - [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 - [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
 - [AICamp](https://aicamp.so/) - ChatGPT for Teams
